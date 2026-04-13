@@ -471,16 +471,5 @@ HTTP POST /projects/:projectId/tasks
 
 ---
 
-## File count summary
 
-```
-domain/         14 files  (models, types, interfaces, exceptions)
-application/     3 files  (2 services + 1 module)
-infrastructure/ 10 files  (2 entities, 2 mappers, 2 repos, 1 module, 1 data-source)
-presentation/   11 files  (2 controllers, 4 DTOs, 2 mappers, 1 module, 1 filter)
-migrations/      2 files  (project table, task table)
-config/          2 files  (app.module, main.ts)
-─────────────────────────
-Total:          42 files  — every single one with a clear single responsibility
-```
-<!--Notion: https://www.notion.so/DDD-Pattern-Notes-With-Simple-App-32fcd46418a080f095f2c17ff543b546?source=copy_link -->
+Notion: https://www.notion.so/DDD-Pattern-Notes-With-Simple-App-32fcd46418a080f095f2c17ff543b546?source=copy_link 
