@@ -3,6 +3,10 @@
 /node_modules
 /build
 
+# local tooling / agent artifacts
+.claude/
+.playwright-mcp/
+
 # Logs
 logs
 *.log

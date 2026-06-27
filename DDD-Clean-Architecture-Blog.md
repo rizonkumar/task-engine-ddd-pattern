@@ -983,6 +983,6 @@ config/ 2 files (app.module, main.ts)
 Total: 42 files
 ```
 
-If you want the full code, it's all in the repo. Thanks for reading!
+If you want the full code, it's all on GitHub: **[github.com/rizonkumar/task-engine](https://github.com/rizonkumar/task-engine)**. Thanks for reading!
 
 > _Built as a learning project with NestJS · TypeORM · PostgreSQL · Clean Architecture · DDD._

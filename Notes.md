@@ -1,6 +1,8 @@
 # Task Engine — Complete Architecture Reference
 > NestJS · TypeORM · PostgreSQL · Clean Architecture · DDD-inspired
 > Built step by step as a learning project. Use this to revise and for interviews.
+>
+> 📦 Repo: https://github.com/rizonkumar/task-engine · 📘 Full deep-dive: [DDD-Clean-Architecture-Blog.md](./DDD-Clean-Architecture-Blog.md)
 
 ---
 
@@ -483,4 +485,11 @@ config/          2 files  (app.module, main.ts)
 ─────────────────────────
 Total:          42 files  — every single one with a clear single responsibility
 ```
-<!--Notion: https://www.notion.so/DDD-Pattern-Notes-With-Simple-App-32fcd46418a080f095f2c17ff543b546?source=copy_link -->
+
+---
+
+## Links
+
+- **Repo:** https://github.com/rizonkumar/task-engine
+- **Deep-dive blog:** [DDD-Clean-Architecture-Blog.md](./DDD-Clean-Architecture-Blog.md)
+- **Project README:** [README.md](./README.md)
